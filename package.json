@@ -1,0 +1,14 @@
+{
+  "name": "default-node",
+  "version": "0.0.1",
+  "description": "Basic setup for node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BasB",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.2.0"
+  }
+}
